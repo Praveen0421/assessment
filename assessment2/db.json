@@ -1,0 +1,14 @@
+{
+  "customer": [
+    {
+      "name": "Praveen",
+      "description": "hello my name is praveen",
+      "status": "Open",
+      "rate": "70",
+      "balance": "-70.00",
+      "deposit": "500",
+      "id": 1
+    }
+
+  ]
+}
